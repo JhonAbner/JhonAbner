@@ -3,7 +3,7 @@
 <!--
 **JhonAbner/JhonAbner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-- 🔭 I’m don,t currently working
+- 🔭 I’m don't currently working
 - 🌱 I'm starting now in the area of programming 
 - 😄 Pronoums: ele/dele
 <div>
